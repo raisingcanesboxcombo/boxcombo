@@ -62,7 +62,7 @@
 	box-sizing: border-box;
 }
   @font-face {
-      font-family: "MSGOTHIC.TTC";
+      font-family: "MS PGothic";
       src: url("/resources/MSGOTHIC.TTC") format("truetype");
     }
 

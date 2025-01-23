@@ -61,12 +61,10 @@
 * { 
 	box-sizing: border-box;
 }
-@font-face {
-    font-family: 'MS PGothic';
-    src: url('https://raw.githubusercontent.com/xerysherry/uEmuera/cb66a45fd44d910b15ebd288b96b9de3853d3fdf/Assets/Resources/Fonts/MS%20Gothic.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
+  @font-face {
+      font-family: "MSGOTHIC.TTC";
+      src: url("/resources/MSGOTHIC.TTC") format("truetype");
+    }
 
 body {
     padding: 10px;

@@ -60,13 +60,11 @@
 
 * { 
 	box-sizing: border-box;
-
-
+}
 body {
 	padding: 10px;
-	font-family: 'MS Gothic', sans-serif;
+	font-family: 'MS PGothic', sans-serif;
 	color: var(--text);
-
 
 	/* page background pattern */
 	background-color: var(--gradientTop);

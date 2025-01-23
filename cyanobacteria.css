@@ -70,7 +70,9 @@
 
 
 body {
+	padding: 10px;
 	font-family: 'MS Gothic', sans-serif;
+	color: var(--text);
 
 
 	/* page background pattern */

@@ -70,9 +70,8 @@
 
 
 body {
-    padding: 10px;
-    font-family: 'MS Gothic', sans-serif;
-    color: var(--text);
+	font-family: 'MS Gothic', sans-serif;
+
 
 	/* page background pattern */
 	background-color: var(--gradientTop);
